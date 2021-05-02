@@ -13,4 +13,5 @@ Implemented Functionalities in javascript:
    8. Lazy Loading Images
    9. Slider Component
  
- Bank page functionality is same as my other repository (Simple_Bankist_App)
+ Bank page functionality is same as my other repository (Simple_Bankist_App)<br />
+Demo here: https://hisham-bankist-website.netlify.app/
