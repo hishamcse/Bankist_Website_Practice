@@ -13,6 +13,6 @@ Implemented Functionalities in javascript:
    8. Lazy Loading Images
    9. Slider Component
  
-  N.B: Bank page functionality is same as my other repository (Simple_Bankist_App)<br />
-       &nbsp;&nbsp; Account can't be created. It is just for modal window practice<br />
+  N.B: 1. Bank page functionality is same as my other repository (Simple_Bankist_App)<br />
+       2. Account can't be created. It is just for modal window practice<br />
 Demo here: https://hisham-bankist-website.netlify.app/
