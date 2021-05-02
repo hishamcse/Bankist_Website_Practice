@@ -14,5 +14,5 @@ Implemented Functionalities in javascript:
    9. Slider Component
  
   N.B: Bank page functionality is same as my other repository (Simple_Bankist_App)<br />
-       Account can't be created. It is just for modal window practice
+       &nbsp; Account can't be created. It is just for modal window practice<br />
 Demo here: https://hisham-bankist-website.netlify.app/
